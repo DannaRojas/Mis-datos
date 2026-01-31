@@ -10,7 +10,7 @@
 
 📝Estudiante de la Pontificia Univerdad javeriana
 
-
+![image alt]()
 
 
 👨🏻‍💻Tecnologías conocidas
@@ -20,7 +20,4 @@
     <img src="https://skillicons.dev/icons?i=c,cpp,java,dmysql,line=12" />
   </a>
 </p>
-<br>
-<!-------------------------->
-<div id="proyectos">
-<h2 >Algunos proyectos👨🏻‍💻</h2>
+
