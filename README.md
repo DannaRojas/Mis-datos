@@ -1,6 +1,26 @@
 
+<h1 align="center"> Mi perfil</h1>
 
-Mi nombre es Danna Gabriela Rojas, tengo 18 años y estos son algunos datos sobre mi.
+<p align="center">Hola 👋 Mi nombre es Danna Gabriela Rojas Bernal, estos son algunos datos sobre mi.✨ </p> 
 
-## Mi>
 
+<h2>Sobre mi 😃</h2>
+
+🎓Ingeniera de sistemas en proceso 
+
+📝Estudiante de la Pontificia Univerdad javeriana
+
+
+
+
+👨🏻‍💻Tecnologías conocidas
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,cpp,java,dmysql,line=12" />
+  </a>
+</p>
+<br>
+<!-------------------------->
+<div id="proyectos">
+<h2 >Algunos proyectos👨🏻‍💻</h2>
