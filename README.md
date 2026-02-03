@@ -18,10 +18,11 @@
 👨🏻‍💻 Tecnologías conocidas<br>
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=c,cpp,java,,perline=12" />
- </a><br>
-  🔔 Me gusta jugar tennis, ir al gym, jugar videojuegos, cocinar, comer, pintar y pasar tiempo con mi amigos y familia 
+ </a><br><br>
+  🔔 Me gusta jugar tennis, ir al gym, jugar videojuegos, cocinar, escuchar musica, comer, 
+      <br>pintar y pasar tiempo con mi amigos y familia 
       
-   🔔 Soy buena trabajndo en furpo, creativa, chistosa, amable y responsanble 
+   <br>🔔 Soy buena trabajando en grupo, creativa, chistosa, amable y responsanble 
 </p>
 <br>
 
